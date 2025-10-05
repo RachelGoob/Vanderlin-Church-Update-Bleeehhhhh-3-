@@ -7161,6 +7161,10 @@
 /obj/item/paper/bsmith,
 /turf/open/floor/woodturned,
 /area/rogue/indoors/town/smithy)
+"eix" = (
+/obj/structure/bookcase/random/legends,
+/turf/open/floor/herringbone,
+/area/rogue/indoors/town/church)
 "eiD" = (
 /obj/structure/table/wood{
 	icon_state = "longtable"
@@ -14259,6 +14263,10 @@
 "ipt" = (
 /turf/closed/wall/mineral/wooddark,
 /area/rogue/indoors/town/manor/halls)
+"ipu" = (
+/obj/structure/bookcase/random,
+/turf/open/floor/herringbone,
+/area/rogue/indoors/town/church)
 "ipx" = (
 /obj/machinery/light/fueled/wallfire/candle/r,
 /turf/open/floor/woodturned/nosmooth,
@@ -156797,9 +156805,9 @@ daH
 daH
 daH
 daH
-daH
-daH
-daH
+lwg
+vgJ
+vgJ
 vgJ
 nZK
 nZK
@@ -156996,12 +157004,12 @@ gte
 pHr
 pHr
 flX
-pHr
 vdK
 mKu
 pHr
-mGc
 daH
+daH
+vgJ
 vgJ
 nEW
 nEW
@@ -157198,12 +157206,12 @@ pHr
 pHr
 pHr
 pHr
-iGU
 daH
 iXp
 pHr
 kRZ
 daH
+vgJ
 vgJ
 vgJ
 vgJ
@@ -157400,12 +157408,12 @@ cBu
 pHr
 dcu
 pHr
-pHr
 oNt
 pHr
 pHr
-kRZ
+mGc
 daH
+vgJ
 vgJ
 vgJ
 vgJ
@@ -157602,12 +157610,12 @@ pHr
 pHr
 hpq
 pHr
-pHr
 txJ
 pHr
 pHr
-mGc
+ipu
 daH
+vgJ
 vgJ
 vgJ
 vgJ
@@ -157804,12 +157812,12 @@ fnF
 pHr
 otR
 pHr
-pHr
 gdN
 pHr
 pHr
 uhQ
 daH
+vgJ
 vgJ
 vgJ
 vgJ
@@ -158006,12 +158014,12 @@ gIB
 pHr
 oYY
 pHr
-pHr
 xcY
 pHr
 pHr
-mGc
+ipu
 daH
+vgJ
 vgJ
 vgJ
 vgJ
@@ -158208,12 +158216,12 @@ nbx
 pHr
 fdk
 pHr
-pHr
 oNt
 pHr
 pHr
-kRZ
+mGc
 daH
+vgJ
 vgJ
 vgJ
 vgJ
@@ -158406,16 +158414,16 @@ vgJ
 vgJ
 vgJ
 daH
+eix
 pHr
 pHr
 pHr
-pHr
-iGU
 daH
 iXp
 pHr
 kRZ
 daH
+vgJ
 vgJ
 vgJ
 vgJ
@@ -158609,15 +158617,15 @@ owH
 vgJ
 daH
 daH
-pHr
+eix
 elw
-pHr
 pHr
 lOW
 elw
 pHr
-mGc
 daH
+daH
+vgJ
 vgJ
 vgJ
 vgJ
@@ -158817,9 +158825,9 @@ daH
 daH
 daH
 daH
-daH
-daH
-daH
+lwg
+vgJ
+vgJ
 vgJ
 vgJ
 vgJ
